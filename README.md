@@ -1,2 +1,3 @@
-# whydrs-mailto
-a project for testing the html mailto links
+# whydrs-mailto 
+
+a project for testing some html Mailto actions
